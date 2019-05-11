@@ -1,10 +1,64 @@
+#
+# Site settings
+#
+remote_theme: LeakyAbstractions/pretty-docs
+title: &site_title Agile Madness
+description: &site_description A place for everyone mad about anything related to Agile
+branding:
+  icon:
+    name: icon_documents_alt
+  highlight: Agile 
+  bold: Madness
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  input: GFM
+  hard_wrap: false
+  footnote_nr: 1
+  parse_block_html: true
+
+
+
+#
+# Social
+#
+open_graph:
+  title: *site_title
+  site_name: *site_title
+  description: *site_description
+  locale: en_US
+  image: /assets/images/thumb.png
+
+
+# Google Analytics
+google_analytics: UA-61670496-5
+
+
+#
+# Collections
+#
+collections:
+  doc:
+    output: true
+    permalink: /:path.html
+
+
+#
+# Default values
+#
 defaults:
-  - scope:
+  -
+    scope:
       path: ""
-      type: "posts"
+      type: doc
     values:
-      layout: "post"
-  - scope:
+      layout: doc
+  -
+    scope:
       path: ""
+      type: pages
     values:
-      layout: "default"
+      layout: doc
