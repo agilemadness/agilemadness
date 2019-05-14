@@ -12,6 +12,7 @@ sections:
   - /articles/content/why-developers-hate-agile/scrum
   - /articles/content/why-developers-hate-agile/overcome
   - /articles/content/why-developers-hate-agile/conclusion
+parent: articles
 ---
 
 Are they? Kind of - I think - some say it clearly, some are not

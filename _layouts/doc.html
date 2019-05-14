@@ -54,7 +54,10 @@ layout: compress
 
                 <!-- BREADCRUMB -->
                 <ol class="breadcrumb">
-                    <li><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>
+                  <li><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>
+                  {% if page.parent %}
+                    <li><a href="/{{ page.parent }}.html">{{page.parent | capitalize}}</a></li>
+                  {% endif %}
                     <li class="active">{{ page.title }}</li>
                 </ol>
 

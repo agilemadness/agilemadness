@@ -8,5 +8,6 @@ color: orange
 sections:
   - /articles/content/product-backlog/comics
   - /articles/content/product-backlog/my-understanding
+parent: articles
 ---
 

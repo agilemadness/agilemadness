@@ -10,5 +10,6 @@ sections:
   - /articles/content/release-planning/my-understanding
   - /articles/content/release-planning/is-it-needed
   - /articles/content/release-planning/in-release-planning
+parent: articles
 ---
 

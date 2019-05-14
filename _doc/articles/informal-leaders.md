@@ -13,6 +13,7 @@ sections:
   - /articles/content/informal-leaders/develop
   - /articles/content/informal-leaders/conclusion
   - /articles/content/informal-leaders/references
+parent: articles
 ---
 
 This week I was reading about “Change Management”, I came a cross the

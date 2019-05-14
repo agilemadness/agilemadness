@@ -8,5 +8,6 @@ color: orange
 sections:
   - /articles/content/user-story/comics
   - /articles/content/user-story/my-understanding
+parent: articles
 ---
 
