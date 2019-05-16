@@ -10,7 +10,7 @@ sections:
   - /presentations/continuous-delivery
 
 promo:
-  title: Webinar - Spotify Engineering Model
+  title: Webinar - Spotify Engineering Culture
   link: https://zoom.us/meeting/register/9777e8bbd5a939c07c24e00bf0acd2b8
   image:
     alt: AppKit Theme
