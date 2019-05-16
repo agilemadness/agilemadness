@@ -4,7 +4,7 @@ excerpt: Planning a release and setting a deadline for initial scope is challeng
 date: 2018-06-18
 icon:
   name: icon_lifesaver
-color: orange
+color: primary
 sections:
   - /articles/content/release-planning/comics
   - /articles/content/release-planning/my-understanding

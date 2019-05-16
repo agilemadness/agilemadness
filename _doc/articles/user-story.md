@@ -4,7 +4,7 @@ excerpt: The amount of details written in user stories is a conflict point in Sc
 date: 2018-04-21
 icon:
   name: icon_lifesaver
-color: orange
+color: primary
 sections:
   - /articles/content/user-story/comics
   - /articles/content/user-story/my-understanding

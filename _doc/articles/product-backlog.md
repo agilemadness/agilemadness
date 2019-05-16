@@ -4,7 +4,7 @@ excerpt: Product backlog is one of the three artifacts of Scrum besides Sprint b
 date: 2018-04-28
 icon:
   name: icon_lifesaver
-color: orange
+color: primary
 sections:
   - /articles/content/product-backlog/comics
   - /articles/content/product-backlog/my-understanding

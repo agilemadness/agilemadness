@@ -2,7 +2,7 @@
 title: Webinars
 icon:
   name: icon_genius
-color: green
+color: primary
 sections:
   - /webinars/spotify
 #  - /webinars/free_themes

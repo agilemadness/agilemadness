@@ -2,7 +2,7 @@
 title: Articles
 icon:
   name: icon_puzzle_alt
-color: orange
+color: primary
 sections:
   - /articles/sections/general_articles
   - /articles/sections/fahman_ghaltan

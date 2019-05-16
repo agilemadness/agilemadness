@@ -4,7 +4,7 @@ excerpt: In any organization, there are people who don’t need a formal positio
 date: 2018-10-26
 icon:
   name: icon_lifesaver
-color: orange
+color: primary
 sections:
   - /articles/content/why-developers-hate-agile/agility
   - /articles/content/why-developers-hate-agile/flaccid-scrum

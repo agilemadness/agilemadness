@@ -2,7 +2,7 @@
 title: Presentations
 icon:
   name: icon_datareport_alt
-color: blue
+color: primary
 sections:
   - /presentations/scrum-anti-patterns
   - /presentations/agile-frameworks
